@@ -24,7 +24,7 @@ def getLocation():
 	#     output = driver.find_element(By.CLASS_NAME, 'mapboxgl-popup-content').text    
 	#     print('output.....', output)    
 	# except:    
-	#     print('no response....')    
+	#     print('no response.... ')    
 	# wait = WebDriverWait(driver, timeout)    
 	time.sleep(10)    
 	driver.close()
